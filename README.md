@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Agentic+AI+%26+Generative+AI+Enthusiast;Full+Stack+Developer;RAG+%2F+LLM+Pipeline+Builder;AI%2FML+Intern+at+Proton+Soft+Tech" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/syed-abdul-qahar-47bb37274">
+    <a href="https://linkedin.com/in/syedabdulqahar">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:syedabdulqahar2004@gmail.com">
